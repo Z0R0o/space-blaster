@@ -5,7 +5,8 @@ Blast incoming enemies, dodge their fire, and climb your way to a new high score
 
 ---
 
-![screenshot](https://your-screenshot-url-or-gif) <!-- Optional: replace or remove -->
+![OverView](https://github.com/user-attachments/assets/8decab08-4436-4aef-b64d-5fe1a270e31a)
+
 
 ## 🎮 Features
 
