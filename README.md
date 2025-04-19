@@ -39,14 +39,14 @@ Blast incoming enemies, dodge their fire, and climb your way to a new high score
 
 ## ASSETS
 
-*Player
+## Player
 ![player](https://github.com/user-attachments/assets/fb33ad6c-5f07-47f8-8874-8e00d57c055b)
 
-*Enemy
+## Enemy
 
 ![enemy](https://github.com/user-attachments/assets/71258128-e773-4813-b750-fd7a7a5d8b8f)
 
-*Bullet
+* Bullet
 
 ![bullet](https://github.com/user-attachments/assets/aad367a6-49cb-45df-9965-1d0de9e3b5db)
 
