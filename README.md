@@ -23,4 +23,4 @@ Blast incoming enemies, dodge their fire, and climb your way to a new high score
 
 - Download .exe File 
 - Run .exe File 
- * Simple As That
+  * Simple As That
