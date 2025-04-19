@@ -5,9 +5,9 @@ Blast incoming enemies, dodge their fire, and climb your way to a new high score
 
 ---
 
-![OverView](https://github.com/user-attachments/assets/8decab08-4436-4aef-b64d-5fe1a270e31a)
+![OverView](https://github.com/user-attachments/assets/7d03eb00-f529-4d31-9e42-f57bf18c9a29)
 
-
+---
 ## 🎮 Features
 
 - 🛸 Smooth arcade-style gameplay
