@@ -57,6 +57,11 @@ Blast incoming enemies, dodge their fire, and climb your way to a new high score
 
 ## BackGround
 
+---
+
+# GRINDING FOR NEW LAPTOP IF YOU LIKE MY WORK AND WANT ME TO CREATE SOMETHING FOR YOU HIT ME UP ON DISCORD ``9urple_ink11``
+
+
 ![bg](https://github.com/user-attachments/assets/6fb0009b-115b-46ae-b51e-5902934a10f8)
 
 
