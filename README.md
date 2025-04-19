@@ -57,12 +57,13 @@ Blast incoming enemies, dodge their fire, and climb your way to a new high score
 
 ## BackGround
 
+![bg](https://github.com/user-attachments/assets/6fb0009b-115b-46ae-b51e-5902934a10f8)
+
 ---
 
-# GRINDING FOR NEW LAPTOP IF YOU LIKE MY WORK AND WANT ME TO CREATE SOMETHING FOR YOU HIT ME UP ON DISCORD ``9urple_ink11``
+# GRINDING FOR NEW LAPTOP IF YOU LIKE MY WORK AND WANT ME TO CREATE SOMETHING FOR YOU HIT ME UP ON DISCORD USER:- ``9urple_ink11``
+[![Contact Me on Discord](https://img.shields.io/badge/Discord-Zoro%20%231337-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1357257822571855986)
 
-
-![bg](https://github.com/user-attachments/assets/6fb0009b-115b-46ae-b51e-5902934a10f8)
 
 
 
