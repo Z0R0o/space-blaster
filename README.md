@@ -19,6 +19,16 @@ Blast incoming enemies, dodge their fire, and climb your way to a new high score
 
 ---
 
+## C0NTROLS 
+
+- Left And Right Arrow Key To Nevigate Player
+- Space To Fire
+- P To Pause  
+- R To Replay
+- Space So Start
+
+---
+
 ## 🧩 Installation
 
 - Download .exe File 
